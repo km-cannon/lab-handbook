@@ -1,12 +1,15 @@
-ROLES & EXPECTATIONS
+Roles & Expectations
 ====================
 
-#PI: Kevin Cannon
+PI: Kevin Cannon
+----------------
 
-##Role
+Role
+~~~~
 The PI sets and executes the overall direction for the lab, and sources funding for most lab activities through grants and contracts.
 
-###Expectations
+Expectations
+~~~~~~~~~~~~
 - Provide supportive mentorship, clear direction, and valuable career advice including non-academic careers for all Group members.
 - Create a welcoming and inclusive environment for all members.
 - Provide well thought out, promising projects for Group members that will lead to high-impact conference presentations and publications.
@@ -17,11 +20,14 @@ The PI sets and executes the overall direction for the lab, and sources funding 
 - Provide access to additional resources and help as needed by Group members.
 
 Postdocs
+--------
 
 Role
+~~~~
 Postdocs significantly advance the goals of the Group while taking steps to launch their own independent career.
 
 Expectations
+~~~~~~~~~~~~
 - Work mostly independently with minimal to moderate guidance and assistance.
 - Carry out high-caliber research activities on projects from both their own initiatives, and from the PI. Assist with lab management and improving shared resources.
 - Develop proposal writing skills and start to seek funding for their research and technology projects.
@@ -32,11 +38,14 @@ Expectations
 - Attend all group meetings and group events, and schedule individual meetings as needed.
 
 Graduate students
+-----------------
 
 Role
+~~~~
 Graduate students are full, productive members of the group who should hone their research skills and further their education on their way to a degree and future career.
 
 Expectations
+~~~~~~~~~~~~
 - Work on research and technology projects with guidance and support of the PI and Postdocs, building more independence over the course of their program and beginning to drive their own ideas.
 - Fulfill all obligations of their degree program, maintaining acceptable grades and gaining teaching experience and other training as desired.
 - Serve as lead author on publications and conference presentations.
@@ -46,11 +55,14 @@ Expectations
 - Attend all group meetings, individual meetings and other group events.
 
 Undergraduates
+--------------
 
 Role
+~~~~
 Undergraduates are full members of the Group who should be exposed to authentic research activities and make meaningful contributions to the goals of the Lab.
 
 Expectations
+~~~~~~~~~~~~
 - Contribute to research and technology projects with guidance and support of the PI, Postdocs, and Grad Students.
 - Serve as co-author or lead author on publications and conference presentations.
 - Attend group meetings, individual meetings and other group events as available.

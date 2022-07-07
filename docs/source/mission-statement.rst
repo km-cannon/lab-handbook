@@ -14,4 +14,5 @@ The Lab aims to draw on business and entrepreneurial practices to set itself apa
 (2) Framing research results and technology as our product, and the science community, government, and industry as our customer. We track our impact over time and take steps to improve efficiency and effectiveness.
 (3) Using software tools to improve communication and workflow.
 
-The Cannon group is quite new, founded in 2020.
+.. note::
+    The Cannon group is quite new, founded in 2020.
