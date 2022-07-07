@@ -8,19 +8,23 @@ PI Cannon’s Office:
     Berthoud Hall (BE) 311B
 
 Planetary Cartography Lab:
-    General Research Lab (GRL) 238
-    Operated by PI Cannon. Computer workstations, interactive displays, 3D printers, and AR/VR capabilities for geospatial and remote sensing work.
+    General Research Lab (GRL) 238 [Operated by PI Cannon]
+
+    Computer workstations, interactive displays, 3D printers, and AR/VR capabilities for geospatial and remote sensing work.
 
 Space Resources Lab:
-    General Research Lab (GRL) 140
-    Operated by Chris Dreyer. Vacuum chambers and instruments for basic and applied research, technology & instrument development, etc. PI Cannon has equipment and materials here for regolith simulant development.
+    General Research Lab (GRL) 140 [Operated by Chris Dreyer]
+
+    Vacuum chambers and instruments for basic and applied research, technology & instrument development, etc. PI Cannon has equipment and materials here for regolith simulant development.
 
 Earth Mechanics Institute:
-    EMI
-    Operated by Brent Duncan. Lunar testbed and regolith simulant production capabilities.
+    EMI [Operated by Brent Duncan]
 
-CoorsTek 250 Suite:
+    Lunar testbed and regolith simulant production capabilities.
+
+CoorsTek 250 Suite (coming soon):
     CoorsTek (CK) 250
+
     Shared Materials Sciences Lab.
 
 Hours
@@ -43,10 +47,11 @@ Mailing address:
 
 For on campus deliveries, use the following mailing address:
 
-KEVIN CANNON
-GEOLOGY AND GEOLOGICAL ENGINEERING
-1301 19TH ST
-GOLDEN, CO 80401-1705
-UNITED STATES
+| KEVIN CANNON
+| GEOLOGY AND GEOLOGICAL ENGINEERING
+| 1301 19TH ST
+| GOLDEN, CO 80401-1705
+| UNITED STATES
+
 If a general phone number is needed, use the PI’s cell.
 

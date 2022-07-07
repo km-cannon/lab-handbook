@@ -1,4 +1,4 @@
-DAY-TO-DAY
+Day-to-Day
 ==========
 
 Dress code:
